@@ -58,7 +58,7 @@ The outcome should look like in the example image below:
 
 Notice that you must implement the DOM structure using react components. You are not allowed to
 create the DOM structure in the App component. The App component should only render the question component
-and the question component should render the question and options.
+and the question component should render the question text and the options via option component.
 
 ## Testing Your Work
 
