@@ -25,12 +25,12 @@ You will create a React application that displays a question with multiple answe
 
 ### 3. Create the Question Component
 
-- Define a `Question` component in a separate file (`src/components/Question.js`).
+- Define a `Question` component in a separate file (`src/Question.js`).
 - This component should receive `question` and `options` as props and render them.
 
 ### 4. Create the Option Component
 
-- Define an `Option` component in a separate file (`src/components/Option.js`).
+- Define an `Option` component in a separate file (`src/Option.js`).
 - The `Option` component should receive an individual option as a string prop and render it within a styled `div`.
 
 ### 5. Pass Props and Render Components
